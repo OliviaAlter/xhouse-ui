@@ -2,6 +2,10 @@
 
 ## Project setup
 ```
+npm cache clean --force
+
+delete package-lock.json
+
 npm install
 ```
 

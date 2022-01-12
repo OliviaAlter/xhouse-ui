@@ -345,7 +345,7 @@ export default {
     }
   },
   mounted() {
-    ;[
+    [
       'drag',
       'dragstart',
       'dragend',

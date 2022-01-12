@@ -339,7 +339,7 @@ export default {
       if (this.currentPage != 0) {
         this.getUsersPagination();
       }
-      deep: true;
+      true;
     },
     addUserDialog: function() {
       if (this.addUserDialog && this.user.userRole === 5) {

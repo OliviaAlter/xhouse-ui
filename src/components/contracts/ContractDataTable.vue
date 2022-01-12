@@ -376,7 +376,7 @@ export default {
       if (this.currentPage != 0) {
         this.getContractPagination();
       }
-      deep: true;
+      true;
     }
   }
 };

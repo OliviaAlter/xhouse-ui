@@ -97,7 +97,7 @@ export default {
       if (this.currentPage != 0) {
         this.getHouses();
       }
-      deep: true;
+      true;
     },
     viewMode: function() {
       this.getHouses()

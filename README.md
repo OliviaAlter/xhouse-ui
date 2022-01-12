@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm cache clear --force
+npm cache clean --force
 
 delete package-lock.json
 
